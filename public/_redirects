@@ -1,0 +1,55 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-08-03T09:52:28.283Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/en/id-currency-5-submitcurrency-1  /en/id-currency-5-submitcurrency-1.html  200!
+/en/id-currency-6-submitcurrency-1  /en/id-currency-6-submitcurrency-1.html  200!
+/en/id-currency-7-submitcurrency-1  /en/id-currency-7-submitcurrency-1.html  200!
+/en/id-currency-2-submitcurrency-1  /en/id-currency-2-submitcurrency-1.html  200!
+/en/id-currency-3-submitcurrency-1  /en/id-currency-3-submitcurrency-1.html  200!
+/en/id-currency-4-submitcurrency-1  /en/id-currency-4-submitcurrency-1.html  200!
+/es  /es.html  200!
+/fr  /fr.html  200!
+/de  /de.html  200!
+/it  /it.html  200!
+/en/ps5-games  /en/ps5-games.html  200!
+/en/ps4-games  /en/ps4-games.html  200!
+/en/xbox-series-x-s-games  /en/xbox-series-x-s-games.html  200!
+/en/xbox-games  /en/xbox-games.html  200!
+/en/content/category/2-how-to-install  /en/content/category/2-how-to-install.html  200!
+/en/best-ps5-games  /en/best-ps5-games.html  200!
+/en/new-ps5-games  /en/new-ps5-games.html  200!
+/en/ps5-shooting-games  /en/ps5-shooting-games.html  200!
+/en/ps5-adventure-games  /en/ps5-adventure-games.html  200!
+/en/ps5-sports-games  /en/ps5-sports-games.html  200!
+/en/fps-ps5-games  /en/fps-ps5-games.html  200!
+/en/ps5-horror-games  /en/ps5-horror-games.html  200!
+/en/best-ps4-games  /en/best-ps4-games.html  200!
+/en/new-ps4-games  /en/new-ps4-games.html  200!
+/en/ps4-shooting-games  /en/ps4-shooting-games.html  200!
+/en/best-xbox-series-x-s-games  /en/best-xbox-series-x-s-games.html  200!
+/en/new-xbox-series-x-s-games  /en/new-xbox-series-x-s-games.html  200!
+/en/xbox-series-x-s-shooting-games  /en/xbox-series-x-s-shooting-games.html  200!
+/products  /products.html  200!
+/cart  /cart.html  200!
+/checkout  /checkout.html  200!
+/login  /login.html  200!
+/account  /account.html  200!
+/order-success  /order-success.html  200!
+/return-policy  /return-policy.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+/thank-you  /thank-you.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# Dynamic routes - serve dedicated HTML templates for dynamic paths
+/product/*  /product.html  200!
+/category/*  /category.html  200!

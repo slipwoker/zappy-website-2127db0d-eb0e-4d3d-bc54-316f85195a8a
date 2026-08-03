@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Press2play</title>
+    <link>https://example.com</link>
+    <description>Product feed for Press2play</description>
+    <lastBuildDate>Mon, 03 Aug 2026 09:52:28 GMT</lastBuildDate>
+  </channel>
+</rss>
