@@ -76,13 +76,13 @@ Press2play | E-commerce / Gaming
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -98,11 +98,6 @@ Press2play | E-commerce / Gaming
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -137,7 +132,7 @@ Press2play | E-commerce / Gaming
 
 
 
-SHOP NOW
+קנה עכשיו
 
 
 
@@ -147,7 +142,7 @@ SHOP NOW
 
 
 
-SHOP NOW
+קנה עכשיו
 
 
 
@@ -497,10 +492,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -643,13 +634,13 @@ Description: דולר אוסטרלי | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -665,11 +656,6 @@ Description: דולר אוסטרלי | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -743,10 +729,6 @@ Unsubscribe anytime. See our legal notice.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -890,13 +872,13 @@ Description: דולר קנדי | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -912,11 +894,6 @@ Description: דולר קנדי | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -1014,10 +991,6 @@ Unsubscribe anytime. See our  legal notice  |
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -1081,7 +1054,7 @@ Unsubscribe anytime. See our  legal notice  |
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -1160,13 +1133,13 @@ Description: פרנק שוויצרי | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -1182,11 +1155,6 @@ Description: פרנק שוויצרי | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -1272,10 +1240,6 @@ Unsubscribe anytime. See our  legal notice  |
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -1339,7 +1303,7 @@ Unsubscribe anytime. See our  legal notice  |
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -1418,13 +1382,13 @@ Description: אירו | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -1440,11 +1404,6 @@ Description: אירו | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -1528,10 +1487,6 @@ Unsubscribe anytime. See our legal notice.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -1675,13 +1630,13 @@ Description: ליש&quot;ט בריטית | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -1697,11 +1652,6 @@ Description: ליש&quot;ט בריטית | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -1775,10 +1725,6 @@ Unsubscribe anytime. See our legal notice.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -1922,13 +1868,13 @@ Description: דולר אמריקאי | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -1944,11 +1890,6 @@ Description: דולר אמריקאי | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -2028,10 +1969,6 @@ Unsubscribe anytime. See our legal notice.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -2175,13 +2112,13 @@ Description: ספרדית | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -2197,11 +2134,6 @@ Description: ספרדית | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -2304,10 +2236,6 @@ Cancela la suscripción cuando quieras. Consulta nuestro aviso legal.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -2371,7 +2299,7 @@ Cancela la suscripción cuando quieras. Consulta nuestro aviso legal.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -2450,13 +2378,13 @@ Description: צרפתית | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -2472,11 +2400,6 @@ Description: צרפתית | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -2552,10 +2475,6 @@ Désabonnez-vous à tout moment. Consultez nos mentions légales.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -2699,13 +2618,13 @@ Description: גרמנית | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -2721,11 +2640,6 @@ Description: גרמנית | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -2815,10 +2729,6 @@ Jederzeit abbestellbar. Siehe unsere rechtlichen Hinweise.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -2882,7 +2792,7 @@ Jederzeit abbestellbar. Siehe unsere rechtlichen Hinweise.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -2961,13 +2871,13 @@ Description: איטלקית | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -2983,11 +2893,6 @@ Description: איטלקית | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -3069,10 +2974,6 @@ Annulla l'iscrizione in qualsiasi momento. Consulta le nostre note legali.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -3216,13 +3117,13 @@ Description: משחקי PS5 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -3238,11 +3139,6 @@ Description: משחקי PS5 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -3710,10 +3606,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -3777,7 +3669,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -3856,13 +3748,13 @@ Description: משחקי PS4 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -3878,11 +3770,6 @@ Description: משחקי PS4 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -4319,10 +4206,6 @@ Unsubscribe anytime. See our  legal notice  |
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -4386,7 +4269,7 @@ Unsubscribe anytime. See our  legal notice  |
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -4465,13 +4348,13 @@ Description: משחקי Xbox Series X|S | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -4487,11 +4370,6 @@ Description: משחקי Xbox Series X|S | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -4961,10 +4839,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -5028,7 +4902,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -5107,13 +4981,13 @@ Description: משחקי Xbox | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -5129,11 +5003,6 @@ Description: משחקי Xbox | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -5230,10 +5099,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -5297,7 +5162,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -5376,13 +5241,13 @@ Description: כיצד להתקין | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -5398,11 +5263,6 @@ Description: כיצד להתקין | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -5514,10 +5374,6 @@ Unsubscribe anytime. See our legal notice.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -5661,13 +5517,13 @@ Description: משחקי PS5 הטובים ביותר | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -5683,11 +5539,6 @@ Description: משחקי PS5 הטובים ביותר | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -5761,10 +5612,6 @@ Unsubscribe anytime. See our legal notice.
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -5908,13 +5755,13 @@ Description: משחקי PS5 חדשים | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -5930,11 +5777,6 @@ Description: משחקי PS5 חדשים | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -6273,10 +6115,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -6419,13 +6257,13 @@ Description: משחקי יריות ל-PS5 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -6441,11 +6279,6 @@ Description: משחקי יריות ל-PS5 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -6884,10 +6717,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -6951,7 +6780,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -7030,13 +6859,13 @@ Description: משחקי הרפתקאות ל-PS5 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -7052,11 +6881,6 @@ Description: משחקי הרפתקאות ל-PS5 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -7413,10 +7237,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -7559,13 +7379,13 @@ Description: משחקי ספורט ל-PS5 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -7581,11 +7401,6 @@ Description: משחקי ספורט ל-PS5 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -8093,10 +7908,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -8160,7 +7971,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -8239,13 +8050,13 @@ FPS למשחקי PS5 — Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -8261,11 +8072,6 @@ FPS למשחקי PS5 — Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -8494,10 +8300,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -8561,7 +8363,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -8640,13 +8442,13 @@ Description: משחקי אימה ל-PS5 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -8662,11 +8464,6 @@ Description: משחקי אימה ל-PS5 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -9185,10 +8982,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -9252,7 +9045,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -9331,13 +9124,13 @@ Description: משחקי PS4 הטובים ביותר | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -9353,11 +9146,6 @@ Description: משחקי PS4 הטובים ביותר | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -9862,10 +9650,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -9929,7 +9713,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -10008,13 +9792,13 @@ Description: משחקי PS4 חדשים | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -10030,11 +9814,6 @@ Description: משחקי PS4 חדשים | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -10526,10 +10305,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -10593,7 +10368,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -10672,13 +10447,13 @@ Description: משחקי יריות ל-PS4 | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -10694,11 +10469,6 @@ Description: משחקי יריות ל-PS4 | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -11160,10 +10930,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -11227,7 +10993,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -11306,13 +11072,13 @@ Description: משחקי Xbox Series X|S הטובים ביותר | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -11328,11 +11094,6 @@ Description: משחקי Xbox Series X|S הטובים ביותר | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -11437,10 +11198,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -11504,7 +11261,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -11583,13 +11340,13 @@ Description: משחקי Xbox Series X|S חדשים | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -11605,11 +11362,6 @@ Description: משחקי Xbox Series X|S חדשים | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -12080,10 +11832,6 @@ Unsubscribe anytime. See our legal notice.
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -12147,7 +11895,7 @@ Unsubscribe anytime. See our legal notice.
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -12226,13 +11974,13 @@ Description: משחקי יריות ל-Xbox Series X|S | Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -12248,11 +11996,6 @@ Description: משחקי יריות ל-Xbox Series X|S | Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -12589,10 +12332,6 @@ Unsubscribe anytime. See our legal notice.  Terms  |
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -12656,7 +12395,7 @@ Unsubscribe anytime. See our legal notice.  Terms  |
 
 - מדיניות פרטיות
 
-- תנאי שימוש
+- תנאי שימוש| מדיניות החזרות
 
 - נגישות
 
@@ -12739,13 +12478,13 @@ Description: המוצרים שלנו - Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -12761,11 +12500,6 @@ Description: המוצרים שלנו - Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -12985,10 +12719,6 @@ Description: המוצרים שלנו - Press2play
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -13175,13 +12905,13 @@ Description: עגלת הקניות שלך
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -13197,11 +12927,6 @@ Description: עגלת הקניות שלך
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -13262,10 +12987,6 @@ Description: עגלת הקניות שלך
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -13453,13 +13174,13 @@ Description: תשלום
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -13475,11 +13196,6 @@ Description: תשלום
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -13727,10 +13443,6 @@ Description: תשלום
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -13917,13 +13629,13 @@ Description: התחברות לקוחות
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -13939,11 +13651,6 @@ Description: התחברות לקוחות
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -14011,10 +13718,6 @@ Description: התחברות לקוחות
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -14202,13 +13905,13 @@ Description: החשבון שלי
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -14224,11 +13927,6 @@ Description: החשבון שלי
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -14452,10 +14150,6 @@ Description: החשבון שלי
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -14642,13 +14336,13 @@ Description: תודה על ההזמנה
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -14664,11 +14358,6 @@ Description: תודה על ההזמנה
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -14753,10 +14442,6 @@ Description: תודה על ההזמנה
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -14944,13 +14629,13 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -14966,11 +14651,6 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -15084,10 +14764,6 @@ Press2play מחויבת לשביעות רצון לקוחותיה. מדיניות
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -15275,13 +14951,13 @@ Description: פרטי המוצר - Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -15297,11 +14973,6 @@ Description: פרטי המוצר - Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -15364,10 +15035,6 @@ Description: פרטי המוצר - Press2play
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -15555,13 +15222,13 @@ Description: מוצרים - Press2play
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -15577,11 +15244,6 @@ Description: מוצרים - Press2play
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -15668,10 +15330,6 @@ Description: מוצרים - Press2play
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
@@ -15824,13 +15482,13 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -15846,11 +15504,6 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -16015,10 +15668,6 @@ Press2play ("החברה", "אנו", "שלנו") מחויבת להגן על פר�
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -16130,13 +15779,13 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -16152,11 +15801,6 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -16330,10 +15974,6 @@ Press2play מחויבת להנגיש את השירותים לכלל הציבור
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -16445,13 +16085,13 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -16467,11 +16107,6 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -16664,10 +16299,6 @@ Press2play מספקת E-commerce / Gaming דרך האתר. השירותים כפ
 
 - PS4 Games
 
-- Xbox Series X|S Games
-
-- Xbox Games
-
 - How to install
 
 - Best PS5 Games
@@ -16821,13 +16452,13 @@ Description: תודה שפנית אלינו. קיבלנו את הודעתך ונ
 
 
 - Home
-- Currencies דולר אוסטרלי
+- מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
 - אירו
 - ליש"ט בריטית
 - דולר אמריקאי
-- Languages ספרדית
+- שפות ספרדית
 - צרפתית
 - גרמנית
 - איטלקית
@@ -16843,11 +16474,6 @@ Description: תודה שפנית אלינו. קיבלנו את הודעתך ונ
 - משחקי PS4 הטובים ביותר
 - משחקי PS4 חדשים
 - משחקי יריות ל-PS4
-- Xbox Games משחקי Xbox Series X|S
-- משחקי Xbox
-- משחקי Xbox Series X|S הטובים ביותר
-- משחקי Xbox Series X|S חדשים
-- משחקי יריות ל-Xbox Series X|S
 - כיצד להתקין
 - צור קשר
 0
@@ -16936,10 +16562,6 @@ Description: תודה שפנית אלינו. קיבלנו את הודעתך ונ
 - PS5 Games
 
 - PS4 Games
-
-- Xbox Series X|S Games
-
-- Xbox Games
 
 - How to install
 
