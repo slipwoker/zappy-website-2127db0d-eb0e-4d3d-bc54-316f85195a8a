@@ -10,17 +10,9 @@
 https://example.com
 BuyGames sell cheap ps4 games and cheap xbox games. Great discounts for new ps4 games and new xbox one games. Buy cheap games ps4 &amp; xbox.
 
-### Swiss Franc
-https://example.com/en/id-currency-7-submitcurrency-1
-פרנק שוויצרי | Press2play
-
 ### Euro
 https://example.com/en/id-currency-2-submitcurrency-1
 אירו | Press2play
-
-### British Pound
-https://example.com/en/id-currency-3-submitcurrency-1
-ליש&quot;ט בריטית | Press2play
 
 ### US Dollar
 https://example.com/en/id-currency-4-submitcurrency-1

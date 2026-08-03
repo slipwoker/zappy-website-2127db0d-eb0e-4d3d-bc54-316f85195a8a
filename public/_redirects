@@ -1,11 +1,9 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-08-03T11:59:50.337Z
+# Generated: 2026-08-03T12:00:40.732Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
-/en/id-currency-7-submitcurrency-1  /en/id-currency-7-submitcurrency-1.html  200!
 /en/id-currency-2-submitcurrency-1  /en/id-currency-2-submitcurrency-1.html  200!
-/en/id-currency-3-submitcurrency-1  /en/id-currency-3-submitcurrency-1.html  200!
 /en/id-currency-4-submitcurrency-1  /en/id-currency-4-submitcurrency-1.html  200!
 /es  /es.html  200!
 /fr  /fr.html  200!
