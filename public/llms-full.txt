@@ -2,13 +2,13 @@
 
 BuyGames sell cheap ps4 games and cheap xbox games. Great discounts for new ps4 games and new xbox one games. Buy cheap games ps4 & xbox.
 
-Source: https://press2play-2127db0d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## Press2play | E-commerce / Gaming
 
-URL: https://press2play-2127db0d.zappy5.app
+URL: https://example.com
 Description: BuyGames sell cheap ps4 games and cheap xbox games. Great discounts for new ps4 games and new xbox one games. Buy cheap games ps4 &amp; xbox.
 
 Press2play | E-commerce / Gaming
@@ -575,7 +575,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## דולר אוסטרלי — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/id-currency-5-submitcurrency-1
+URL: https://example.com/en/id-currency-5-submitcurrency-1
 Description: דולר אוסטרלי | Press2play
 
 דולר אוסטרלי — Press2play
@@ -822,7 +822,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## דולר קנדי — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/id-currency-6-submitcurrency-1
+URL: https://example.com/en/id-currency-6-submitcurrency-1
 Description: דולר קנדי | Press2play
 
 דולר קנדי — Press2play
@@ -1092,7 +1092,7 @@ Unsubscribe anytime. See our  legal notice  |
 
 ## פרנק שוויצרי — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/id-currency-7-submitcurrency-1
+URL: https://example.com/en/id-currency-7-submitcurrency-1
 Description: פרנק שוויצרי | Press2play
 
 פרנק שוויצרי — Press2play
@@ -1350,7 +1350,7 @@ Unsubscribe anytime. See our  legal notice  |
 
 ## אירו — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/id-currency-2-submitcurrency-1
+URL: https://example.com/en/id-currency-2-submitcurrency-1
 Description: אירו | Press2play
 
 אירו — Press2play
@@ -1607,7 +1607,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## ליש&quot;ט בריטית — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/id-currency-3-submitcurrency-1
+URL: https://example.com/en/id-currency-3-submitcurrency-1
 Description: ליש&quot;ט בריטית | Press2play
 
 ליש"ט בריטית — Press2play
@@ -1854,7 +1854,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## דולר אמריקאי — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/id-currency-4-submitcurrency-1
+URL: https://example.com/en/id-currency-4-submitcurrency-1
 Description: דולר אמריקאי | Press2play
 
 דולר אמריקאי — Press2play
@@ -2107,7 +2107,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## ספרדית — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/es
+URL: https://example.com/es
 Description: ספרדית | Press2play
 
 ספרדית — Press2play
@@ -2382,7 +2382,7 @@ Cancela la suscripción cuando quieras. Consulta nuestro aviso legal.
 
 ## צרפתית — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/fr
+URL: https://example.com/fr
 Description: צרפתית | Press2play
 
 צרפתית — Press2play
@@ -2631,7 +2631,7 @@ Désabonnez-vous à tout moment. Consultez nos mentions légales.
 
 ## גרמנית — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/de
+URL: https://example.com/de
 Description: גרמנית | Press2play
 
 גרמנית — Press2play
@@ -2893,7 +2893,7 @@ Jederzeit abbestellbar. Siehe unsere rechtlichen Hinweise.
 
 ## איטלקית — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/it
+URL: https://example.com/it
 Description: איטלקית | Press2play
 
 איטלקית — Press2play
@@ -3148,7 +3148,7 @@ Annulla l'iscrizione in qualsiasi momento. Consulta le nostre note legali.
 
 ## משחקי PS5 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps5-games
+URL: https://example.com/en/ps5-games
 Description: משחקי PS5 | Press2play
 
 משחקי PS5 — Press2play
@@ -3788,7 +3788,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי PS4 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps4-games
+URL: https://example.com/en/ps4-games
 Description: משחקי PS4 | Press2play
 
 משחקי PS4 — Press2play
@@ -4397,7 +4397,7 @@ Unsubscribe anytime. See our  legal notice  |
 
 ## משחקי Xbox Series X|S — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/xbox-series-x-s-games
+URL: https://example.com/en/xbox-series-x-s-games
 Description: משחקי Xbox Series X|S | Press2play
 
 משחקי Xbox Series X|S — Press2play
@@ -5039,7 +5039,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי Xbox — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/xbox-games
+URL: https://example.com/en/xbox-games
 Description: משחקי Xbox | Press2play
 
 משחקי Xbox — Press2play
@@ -5308,7 +5308,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## כיצד להתקין — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/content/category/2-how-to-install
+URL: https://example.com/en/content/category/2-how-to-install
 Description: כיצד להתקין | Press2play
 
 כיצד להתקין — Press2play
@@ -5593,7 +5593,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי PS5 הטובים ביותר — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/best-ps5-games
+URL: https://example.com/en/best-ps5-games
 Description: משחקי PS5 הטובים ביותר | Press2play
 
 משחקי PS5 הטובים ביותר — Press2play
@@ -5840,7 +5840,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי PS5 חדשים — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/new-ps5-games
+URL: https://example.com/en/new-ps5-games
 Description: משחקי PS5 חדשים | Press2play
 
 משחקי PS5 חדשים — Press2play
@@ -6351,7 +6351,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי יריות ל-PS5 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps5-shooting-games
+URL: https://example.com/en/ps5-shooting-games
 Description: משחקי יריות ל-PS5 | Press2play
 
 משחקי יריות ל-PS5 — Press2play
@@ -6962,7 +6962,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי הרפתקאות ל-PS5 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps5-adventure-games
+URL: https://example.com/en/ps5-adventure-games
 Description: משחקי הרפתקאות ל-PS5 | Press2play
 
 משחקי הרפתקאות ל-PS5 — Press2play
@@ -7491,7 +7491,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי ספורט ל-PS5 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps5-sports-games
+URL: https://example.com/en/ps5-sports-games
 Description: משחקי ספורט ל-PS5 | Press2play
 
 משחקי ספורט ל-PS5 — Press2play
@@ -8171,7 +8171,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## FPS למשחקי PS5 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/fps-ps5-games
+URL: https://example.com/en/fps-ps5-games
 Description: FPS למשחקי PS5 | Press2play
 
 FPS למשחקי PS5 — Press2play
@@ -8572,7 +8572,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי אימה ל-PS5 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps5-horror-games
+URL: https://example.com/en/ps5-horror-games
 Description: משחקי אימה ל-PS5 | Press2play
 
 משחקי אימה ל-PS5 — Press2play
@@ -9263,7 +9263,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי PS4 הטובים ביותר — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/best-ps4-games
+URL: https://example.com/en/best-ps4-games
 Description: משחקי PS4 הטובים ביותר | Press2play
 
 משחקי PS4 הטובים ביותר — Press2play
@@ -9940,7 +9940,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי PS4 חדשים — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/new-ps4-games
+URL: https://example.com/en/new-ps4-games
 Description: משחקי PS4 חדשים | Press2play
 
 משחקי PS4 חדשים — Press2play
@@ -10604,7 +10604,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי יריות ל-PS4 — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/ps4-shooting-games
+URL: https://example.com/en/ps4-shooting-games
 Description: משחקי יריות ל-PS4 | Press2play
 
 משחקי יריות ל-PS4 — Press2play
@@ -11238,7 +11238,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי Xbox Series X|S הטובים ביותר — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/best-xbox-series-x-s-games
+URL: https://example.com/en/best-xbox-series-x-s-games
 Description: משחקי Xbox Series X|S הטובים ביותר | Press2play
 
 משחקי Xbox Series X|S הטובים ביותר — Press2play
@@ -11515,7 +11515,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי Xbox Series X|S חדשים — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/new-xbox-series-x-s-games
+URL: https://example.com/en/new-xbox-series-x-s-games
 Description: משחקי Xbox Series X|S חדשים | Press2play
 
 משחקי Xbox Series X|S חדשים — Press2play
@@ -12158,7 +12158,7 @@ Unsubscribe anytime. See our legal notice.
 
 ## משחקי יריות ל-Xbox Series X|S — Press2play
 
-URL: https://press2play-2127db0d.zappy5.app/en/xbox-series-x-s-shooting-games
+URL: https://example.com/en/xbox-series-x-s-shooting-games
 Description: משחקי יריות ל-Xbox Series X|S | Press2play
 
 משחקי יריות ל-Xbox Series X|S — Press2play
@@ -12667,7 +12667,7 @@ Unsubscribe anytime. See our legal notice.  Terms  |
 
 ## מוצרים
 
-URL: https://press2play-2127db0d.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Press2play
 
 מוצרים - Press2play
@@ -13103,7 +13103,7 @@ Description: המוצרים שלנו - Press2play
 
 ## עגלת קניות
 
-URL: https://press2play-2127db0d.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Press2play
@@ -13381,7 +13381,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://press2play-2127db0d.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Press2play
@@ -13845,7 +13845,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://press2play-2127db0d.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Press2play
@@ -14130,7 +14130,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://press2play-2127db0d.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Press2play
@@ -14570,7 +14570,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://press2play-2127db0d.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Press2play
@@ -14872,7 +14872,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://press2play-2127db0d.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Press2play
@@ -15203,7 +15203,7 @@ Press2play מחויבת לשביעות רצון לקוחותיה. מדיניות
 
 ## פרטי המוצר
 
-URL: https://press2play-2127db0d.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Press2play
 
 פרטי המוצר - Press2play
@@ -15483,7 +15483,7 @@ Description: פרטי המוצר - Press2play
 
 ## מוצרים
 
-URL: https://press2play-2127db0d.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Press2play
 
 מוצרים - Press2play
@@ -15787,7 +15787,7 @@ Description: מוצרים - Press2play
 
 ## מדיניות פרטיות
 
-URL: https://press2play-2127db0d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -16093,7 +16093,7 @@ Press2play ("החברה", "אנו", "שלנו") מחויבת להגן על פר�
 
 ## הצהרת נגישות
 
-URL: https://press2play-2127db0d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -16408,7 +16408,7 @@ Press2play מחויבת להנגיש את השירותים לכלל הציבור
 
 ## תנאי שימוש
 
-URL: https://press2play-2127db0d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -16742,7 +16742,7 @@ Press2play מספקת E-commerce / Gaming דרך האתר. השירותים כפ
 
 ## תודה רבה - פנייתך התקבלה
 
-URL: https://press2play-2127db0d.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי.
 
 תודה רבה - פנייתך התקבלה
