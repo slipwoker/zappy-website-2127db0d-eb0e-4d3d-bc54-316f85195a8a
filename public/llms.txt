@@ -38,10 +38,6 @@ https://example.com/en/ps5-games
 https://example.com/en/ps4-games
 משחקי PS4 | Press2play
 
-### Xbox Games
-https://example.com/en/xbox-games
-משחקי Xbox | Press2play
-
 ### How to install
 https://example.com/en/content/category/2-how-to-install
 כיצד להתקין | Press2play
