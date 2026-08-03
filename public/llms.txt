@@ -10,10 +10,6 @@
 https://example.com
 BuyGames sell cheap ps4 games and cheap xbox games. Great discounts for new ps4 games and new xbox one games. Buy cheap games ps4 &amp; xbox.
 
-### Euro
-https://example.com/en/id-currency-2-submitcurrency-1
-אירו | Press2play
-
 ### US Dollar
 https://example.com/en/id-currency-4-submitcurrency-1
 דולר אמריקאי | Press2play
@@ -41,10 +37,6 @@ https://example.com/en/ps5-games
 ### PS4 Games
 https://example.com/en/ps4-games
 משחקי PS4 | Press2play
-
-### Xbox Series X|S Games
-https://example.com/en/xbox-series-x-s-games
-משחקי Xbox Series X|S | Press2play
 
 ### Xbox Games
 https://example.com/en/xbox-games

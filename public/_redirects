@@ -1,9 +1,8 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-08-03T12:00:40.732Z
+# Generated: 2026-08-03T12:01:20.470Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
-/en/id-currency-2-submitcurrency-1  /en/id-currency-2-submitcurrency-1.html  200!
 /en/id-currency-4-submitcurrency-1  /en/id-currency-4-submitcurrency-1.html  200!
 /es  /es.html  200!
 /fr  /fr.html  200!
@@ -11,7 +10,6 @@
 /it  /it.html  200!
 /en/ps5-games  /en/ps5-games.html  200!
 /en/ps4-games  /en/ps4-games.html  200!
-/en/xbox-series-x-s-games  /en/xbox-series-x-s-games.html  200!
 /en/xbox-games  /en/xbox-games.html  200!
 /en/content/category/2-how-to-install  /en/content/category/2-how-to-install.html  200!
 /en/best-ps5-games  /en/best-ps5-games.html  200!
