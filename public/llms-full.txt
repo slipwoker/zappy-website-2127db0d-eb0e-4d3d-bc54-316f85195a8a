@@ -75,7 +75,7 @@ Press2play | E-commerce / Gaming
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -488,9 +488,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -633,7 +633,7 @@ Description: דולר אוסטרלי | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -726,9 +726,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -871,7 +871,7 @@ Description: דולר קנדי | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -987,9 +987,9 @@ Unsubscribe anytime. See our  legal notice  |
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -1132,7 +1132,7 @@ Description: פרנק שוויצרי | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -1236,9 +1236,9 @@ Unsubscribe anytime. See our  legal notice  |
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -1381,7 +1381,7 @@ Description: אירו | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -1484,9 +1484,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -1629,7 +1629,7 @@ Description: ליש&quot;ט בריטית | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -1722,9 +1722,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -1867,7 +1867,7 @@ Description: דולר אמריקאי | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -1966,9 +1966,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -2111,7 +2111,7 @@ Description: ספרדית | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -2232,9 +2232,9 @@ Cancela la suscripción cuando quieras. Consulta nuestro aviso legal.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -2377,7 +2377,7 @@ Description: צרפתית | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -2472,9 +2472,9 @@ Désabonnez-vous à tout moment. Consultez nos mentions légales.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -2617,7 +2617,7 @@ Description: גרמנית | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -2725,9 +2725,9 @@ Jederzeit abbestellbar. Siehe unsere rechtlichen Hinweise.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -2870,7 +2870,7 @@ Description: איטלקית | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -2971,9 +2971,9 @@ Annulla l'iscrizione in qualsiasi momento. Consulta le nostre note legali.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -3116,7 +3116,7 @@ Description: משחקי PS5 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -3602,9 +3602,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -3747,7 +3747,7 @@ Description: משחקי PS4 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -4202,9 +4202,9 @@ Unsubscribe anytime. See our  legal notice  |
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -4347,7 +4347,7 @@ Description: משחקי Xbox Series X|S | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -4835,9 +4835,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -4980,7 +4980,7 @@ Description: משחקי Xbox | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -5095,9 +5095,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -5240,7 +5240,7 @@ Description: כיצד להתקין | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -5371,9 +5371,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -5516,7 +5516,7 @@ Description: משחקי PS5 הטובים ביותר | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -5609,9 +5609,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -5754,7 +5754,7 @@ Description: משחקי PS5 חדשים | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -6111,9 +6111,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -6256,7 +6256,7 @@ Description: משחקי יריות ל-PS5 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -6713,9 +6713,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -6858,7 +6858,7 @@ Description: משחקי הרפתקאות ל-PS5 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -7233,9 +7233,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -7378,7 +7378,7 @@ Description: משחקי ספורט ל-PS5 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -7904,9 +7904,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -8049,7 +8049,7 @@ FPS למשחקי PS5 — Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -8296,9 +8296,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -8441,7 +8441,7 @@ Description: משחקי אימה ל-PS5 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -8978,9 +8978,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -9123,7 +9123,7 @@ Description: משחקי PS4 הטובים ביותר | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -9646,9 +9646,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -9791,7 +9791,7 @@ Description: משחקי PS4 חדשים | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -10301,9 +10301,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -10446,7 +10446,7 @@ Description: משחקי יריות ל-PS4 | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -10926,9 +10926,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -11071,7 +11071,7 @@ Description: משחקי Xbox Series X|S הטובים ביותר | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -11194,9 +11194,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -11339,7 +11339,7 @@ Description: משחקי Xbox Series X|S חדשים | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -11828,9 +11828,9 @@ Unsubscribe anytime. See our legal notice.
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -11973,7 +11973,7 @@ Description: משחקי יריות ל-Xbox Series X|S | Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -12328,9 +12328,9 @@ Unsubscribe anytime. See our legal notice.  Terms  |
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -12477,7 +12477,7 @@ Description: המוצרים שלנו - Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -12715,9 +12715,9 @@ Description: המוצרים שלנו - Press2play
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -12904,7 +12904,7 @@ Description: עגלת הקניות שלך
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -12984,9 +12984,9 @@ Description: עגלת הקניות שלך
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -13173,7 +13173,7 @@ Description: תשלום
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -13439,9 +13439,9 @@ Description: תשלום
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -13628,7 +13628,7 @@ Description: התחברות לקוחות
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -13715,9 +13715,9 @@ Description: התחברות לקוחות
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -13904,7 +13904,7 @@ Description: החשבון שלי
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -14146,9 +14146,9 @@ Description: החשבון שלי
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -14335,7 +14335,7 @@ Description: תודה על ההזמנה
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -14439,9 +14439,9 @@ Description: תודה על ההזמנה
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -14628,7 +14628,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -14761,9 +14761,9 @@ Press2play מחויבת לשביעות רצון לקוחותיה. מדיניות
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -14950,7 +14950,7 @@ Description: פרטי המוצר - Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -15032,9 +15032,9 @@ Description: פרטי המוצר - Press2play
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -15221,7 +15221,7 @@ Description: מוצרים - Press2play
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -15327,9 +15327,9 @@ Description: מוצרים - Press2play
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -15481,7 +15481,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -15664,9 +15664,9 @@ Press2play ("החברה", "אנו", "שלנו") מחויבת להגן על פר�
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -15778,7 +15778,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -15970,9 +15970,9 @@ Press2play מחויבת להנגיש את השירותים לכלל הציבור
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -16084,7 +16084,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -16295,9 +16295,9 @@ Press2play מספקת E-commerce / Gaming דרך האתר. השירותים כפ
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
@@ -16451,7 +16451,7 @@ Description: תודה שפנית אלינו. קיבלנו את הודעתך ונ
 
 
 
-- Home
+- בית
 - מטבעות דולר אוסטרלי
 - דולר קנדי
 - פרנק שוויצרי
@@ -16559,9 +16559,9 @@ Description: תודה שפנית אלינו. קיבלנו את הודעתך ונ
 
 - Home
 
-- PS5 Games
+- משחקי PS5
 
-- PS4 Games
+- משחקי PS4
 
 - How to install
 
