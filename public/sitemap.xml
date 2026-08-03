@@ -151,12 +151,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/en/new-xbox-series-x-s-games</loc>
-    <lastmod>2026-08-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://example.com/en/xbox-series-x-s-shooting-games</loc>
     <lastmod>2026-08-03</lastmod>
     <changefreq>weekly</changefreq>
